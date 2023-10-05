@@ -14,6 +14,10 @@ social:
         socialIconClass: 'fa fa-github'
         socialIconText: Github
         socialIconLink: 'https://github.com/vandekul'
+    -
+        socialIconClass: 'fa fa-envelope-o'
+        socialIconText: Contacte
+        socialIconLink: 'mailto:susanna@zynthian.org'
 media_order: logo-home.jpg
 ---
 
