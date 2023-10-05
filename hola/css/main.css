@@ -2194,7 +2194,7 @@ html.no-csstransitions .home-content__main {
         width: 100%;
     }
     .home-social {
-        display: none;
+        /*display: none;*/
     }
 }
 
